@@ -1,0 +1,3 @@
+rootProject.name = 'SentryIoTestApplication'
+
+include ':app'
